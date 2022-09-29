@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Denis Levchenko
-- 👀 I’m interested in web dev
+- 👀 I’m interested in web dev (FrontEnd & BackEnd)
 - 🌱 I’m currently learning Vue, Nuxt.js 
 - 💞️ I’m looking to collaborate on interesting open source projects
 - 📫 How to reach me: tranzi90@gmail.com
