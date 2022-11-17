@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Denis Levchenko
 - 👀 I’m interested in web dev (FrontEnd & BackEnd)
-- 🌱 I’m currently learning Vue, Nuxt.js, etc. 
+- 🌱 I’m currently learning React, Next.js, etc. 
 - 💞️ I’m looking to collaborate on interesting open source projects
 - 📫 How to reach me: tranzi90@gmail.com
 
