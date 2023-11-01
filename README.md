@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Denis Levchenko
-- 👀 I’m interested in mobile / web (FrontEnd & BackEnd) dev
-- 🌱 I’m currently learning Flutter, Dart, etc. 
+- 👀 I’m interested in Back-end (web / mobile) dev
+- 🌱 I’m currently learning Nest.js, RabbitMQ, etc. 
 - 💞️ I’m looking to collaborate on interesting open source projects
 - 📫 How to reach me: tranzi90@gmail.com
 
