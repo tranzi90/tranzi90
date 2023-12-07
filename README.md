@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Denis Levchenko
+- 👋 Hi, I’m Denis :)
 - 👀 I’m interested in Back-end (web / mobile) dev
 - 🌱 I’m currently learning Nest.js, RabbitMQ, etc. 
 - 💞️ I’m looking to collaborate on interesting open source projects
