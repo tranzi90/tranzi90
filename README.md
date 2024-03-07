@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Denis :)
 - 👀 I’m interested in programming & development (web / mobile)
-- 🌱 I’m currently learning GO (Golang), Docker, etc.
+- 🌱 I’m currently learning Flutter, Docker, etc.
 - 💞️ I’m looking to collaborate on interesting open source projects
 - 📫 How to reach me: tranzi90@gmail.com
 
