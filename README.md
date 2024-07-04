@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Denis :)
-- 👀 I’m interested in programming & development (mobile / web)
+- 👀 I’m interested in programming & development
 - 🌱 I’m currently learning Golang, Microservices, etc.
 - 💞️ I’m looking to collaborate on interesting open source projects
 - 📫 How to reach me: tranzi90@gmail.com
