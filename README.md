@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Denis :)
 - 👀 I’m interested in programming & development
-- 🌱 I’m currently learning Ruby on Rails, etc.
+- 🌱 I’m currently learning Go, etc.
 - 💞️ I’m looking to collaborate on interesting open source projects
 - 📫 How to reach me: tranzi90@gmail.com
 
